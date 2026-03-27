@@ -1,8 +1,7 @@
 ## 👋 Hi there, I'm Aryan Jadhav\!
 
 I am a detail-oriented **Software Development Engineer** and **Graphic Designer** based in Bangalore. Currently pursuing my **B.Tech in Information Science** at Dr. Ambedkar Institute of Technology, I balance rigorous engineering academics with an entrepreneurial freelance design practice.
-
-[cite_start]I thrive on building scalable technologies and creating user-centered visual solutions.
+I thrive on building scalable technologies and creating user-centered visual solutions.
 
 -----
 
