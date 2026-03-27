@@ -44,7 +44,8 @@ I thrive on building scalable technologies and creating user-centered visual sol
 
 ### 📫 Let's Connect\!
 
-  * **Email**: [aryan.p.jadhavv@gmail.com](mailto:aryan.p.jadhavv@gmail.com) 
+  * **Email**: [aryan.p.jadhavv@gmail.com](mailto:aryan.p.jadhavv@gmail.com)
+  * **Linkedin**:[![LinkedIn](https://www.linkedin.com/in/aryan-jadhav57?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8%2FWq5Qd5TzujgLlLx%2Fs3CA%3D%3D))  
   * **Location**: Bangalore, India 
 
 -----
