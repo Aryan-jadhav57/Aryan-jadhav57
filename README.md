@@ -10,42 +10,42 @@ I am a detail-oriented **Software Development Engineer** and **Graphic Designer*
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages & Core** | Python, C, HTML, CSS, JavaScript |
-| **Frameworks** |Django, Flask, FastAPI [cite: 45, 46] |
-| **Cloud & DevOps** | ]AWS, Git, CI/CD, Docker, Kubernetes, YAML [cite: 45, 47] |
-| **CS Fundamentals** |DSA, OS, DBMS, Networking, System Design [cite: 15, 16, 17, 44] |
-| **Emerging Tech** |AI/ML (CNN), Blockchain, LLM [cite: 41, 44, 48] |
-| **Design** | UI/UX, Graphic Design, Branding [cite: 12, 19, 25] |
+| **Languages & Core** | Python, C, Java, HTML, CSS, JavaScript |
+| **Frameworks** |Django, Flask, FastAPI  |
+| **Cloud & DevOps** | Git, CI/CD, Docker, Kubernetes, YAML  |
+| **CS Fundamentals** |DSA, OS, DBMS, Networking, System Design |
+| **Emerging Tech** |AI/ML (CNN), Blockchain, LLM |
+| **Design** | UI/UX, Graphic Design, Branding  |
 
 -----
 
 ### 🚀 Key Projects & Achievements
 
-  **Smart Farming with Deep Learning**: Developed an AI-based plant disease detection system using Convolutional Neural Networks (CNN)[cite: 41].
+  **Smart Farming with Deep Learning**: Developed an AI-based plant disease detection system using Convolutional Neural Networks (CNN)
   **Freelance Entrepreneurship**: Successfully managed design teams and creative direction for brands like Wrapafella, Tresor Luxury Bakery, and Crumberry
 
 -----
 
 ### 💼 Professional Experience
 
-**Graphic Designer | [cite_start]Roadster Hospitality** *Dec 2025 – Feb 2026* [cite: 27]
+**Graphic Designer | [cite_start]Roadster Hospitality** *Dec 2025 – Feb 2026* 
 
-  * Delivered tailored visual identities, logos, and packaging for diverse F\&B clients[cite: 29, 30].
-  * Partnered with marketing and operations teams to translate complex needs into compelling design concepts[cite: 32, 33].
+  * Delivered tailored visual identities, logos, and packaging for diverse F\&B clients.
+  * Partnered with marketing and operations teams to translate complex needs into compelling design concepts.
 
 -----
 
 ### 📊 Professional Strengths
 
-  * **Soft Skills**: Leadership, Team Collaboration, Critical Thinking, and Time Management[cite: 51].
-  * **Languages**: English (Advanced), Hindi (Advanced), and Kannada (Intermediate)[cite: 40].
-  * **Design Influence**: Led creative direction at Kreovi, ensuring high client satisfaction and on-time project delivery[cite: 42, 43].
+  * **Soft Skills**: Leadership, Team Collaboration, Critical Thinking, and Time Management.
+  * **Languages**: English (Advanced), Hindi (Advanced), and Kannada (Intermediate).
+  * **Design Influence**: Led creative direction at Kreovi, ensuring high client satisfaction and on-time project delivery.
 
 -----
 
 ### 📫 Let's Connect\!
 
-  * **Email**: [aryan.p.jadhavv@gmail.com](mailto:aryan.p.jadhavv@gmail.com) [cite: 3]
+  * **Email**: [aryan.p.jadhavv@gmail.com](mailto:aryan.p.jadhavv@gmail.com) 
   * **Location**: Bangalore, India 
 
 -----
