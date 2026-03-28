@@ -94,7 +94,6 @@ I bridge the gap between scalable backend architecture and user-centered visual 
 ---
 
 # 📊 GitHub Stats
-# 📊 GitHub Stats
 
 <!-- Overall Stats -->
 <p align="center">
@@ -106,7 +105,7 @@ I bridge the gap between scalable backend architecture and user-centered visual 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-jadhav57&theme=tokyonight&hide_border=false" alt="Aryan's GitHub streak" />
 </p>
 
-<!-- Top Languages -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-jadhav57&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
