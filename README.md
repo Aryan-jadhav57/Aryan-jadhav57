@@ -97,15 +97,15 @@ I bridge the gap between scalable backend architecture and user-centered visual 
 
 <!-- Overall Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-jadhav57&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Aryan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-jadhav57&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-jadhav57&theme=tokyonight&hide_border=false" alt="Aryan's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-jadhav57&theme=tokyonight&hide_border=false"  />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-jadhav57&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-jadhav57&layout=compact&theme=tokyonight&hide_border=false"  />
 </p>
