@@ -1,13 +1,20 @@
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="40px"> 
-  <span style="color:#36BCF7">Aryan Jadhav</span>
+  Hi, I'm Aryan Jadhav
 </h1>
 
-<!-- Animated Name -->
+<h3 align="center">🚀 Innovation through Engineering | 🎨 Creativity through Design</h3>
+
+---
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Aryan+Jadhav;Software+Development+Engineer;Full+Stack+Developer;Freelance+Graphic+Designer;B.Tech+Information+Science+Student;Music+Producer+🎧" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full+Stack+Developer;Freelance+Graphic+Designer;B.Tech+Information+Science+Student;Music+Producer+🎧" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ---
 
