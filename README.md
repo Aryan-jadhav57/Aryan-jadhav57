@@ -51,5 +51,4 @@ I thrive on building scalable technologies and creating user-centered visual sol
 
 -----
 
-**Would you like me to generate a specific "About Me" section tailored for your LinkedIn profile as well?**
 ✨ *“Innovation through engineering, creativity through design.”*
