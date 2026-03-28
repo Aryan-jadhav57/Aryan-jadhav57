@@ -97,7 +97,7 @@ I bridge the gap between scalable backend architecture and user-centered visual 
 
 <!-- Overall Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-jadhav57&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"" />
+  
 </p>
 
 <!-- Streak Stats -->
@@ -107,5 +107,5 @@ I bridge the gap between scalable backend architecture and user-centered visual 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-jadhav57&layout=compact&theme=tokyonight&hide_border=false"  />
+  
 </p>
