@@ -1,8 +1,8 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="40px"> 
-  Hi, I'm <span style="color:#36BCF7">Aryan Jadhav</span>
-</h1>
+<!-- Typing Animation for Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+Aryan+Jadhav" alt="Typing SVG" />
+</p>
+
 
 <!-- Typing Animation -->
 <p align="center">
