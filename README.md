@@ -18,6 +18,21 @@ I bridge the gap between scalable backend architecture and user-centered visual 
 
 ---
 
+# 💼 Experience
+
+### Graphic Designer — Roadster Hospitality *(Bangalore, India | Dec 2025 – Feb 2026)*
+- Delivered creative solutions for hospitality and F&B clients, including **Wrapafella**.  
+- Designed **logos, menus, packaging, and promotional materials** to strengthen branding and customer engagement.  
+- Partnered with **marketing and operations teams** to translate client needs into impactful design concepts.  
+
+### Creative Lead — Kreovi
+- Directed design strategy for branding and promotional campaigns.  
+- Led a team of designers to deliver high-quality creative assets.  
+- Enhanced brand visibility through innovative design and storytelling.  
+
+---
+
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aryan_jadhav57) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan-jadhav57) 
