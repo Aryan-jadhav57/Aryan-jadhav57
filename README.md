@@ -4,10 +4,6 @@
 </p>
 
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full+Stack+Developer;Freelance+Graphic+Designer;Blockchain+Enthusiast;Music+Producer+🎧" alt="Typing SVG" />
-</p>
 
 ---
 
