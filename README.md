@@ -37,6 +37,8 @@ I bridge the gap between scalable backend architecture and user-centered visual 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aryan_jadhav57) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan-jadhav57) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.p.jadhavv@gmail.com)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@arynrecords?si=1q_e0RZcGsiKL8en)
+ 
 
 ---
 
