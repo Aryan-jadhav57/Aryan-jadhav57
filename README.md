@@ -14,8 +14,9 @@
     <td width="65%" valign="top">
       <h2 style="color: #36BCF7;">Coding in the Key of B.Tech</h2>
       <p><b>Artist:</b> Aryan Jadhav</p>
-      <p><b>Genre:</b> Full-Stack / AI / Creative Design</p>
+      <p><b>Genre:</b> Full Stack / AI / Creative Design</p>
       <p><b>Location:</b> Bangalore Studio 🇮🇳</p>
+      <p><b>Quality:</b> Lossless </p>
       <hr color="#333">
       <p><i>"Bridging the gap between scalable backend architecture and user-centered visual storytelling. I don't just write code; I compose experiences."</i></p>
     </td>
