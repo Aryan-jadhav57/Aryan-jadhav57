@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&background=0D1117&center=true&vCenter=true&width=700&lines=%E2%9C%A8+New+Album+releasing+soon...;%E2%96%B6+Listen+to+the+previous+album:;%22Essential+Collections%22;Track+01:+PythoScan;Track+02:+Smart+Parking;Track+03:+Tic+Tac+toe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&background=0D1117&center=true&vCenter=true&width=700&lines=%E2%9C%A8+New+Album+releasing+soon...;%E2%96%B6+Listen+to+the+previous+album:;%22Essential+Collections%22;Track+01:+PythoScan;Track+02:+Smart+Parking;Track+03:+Tic+Tac+toe;Track+04:+DSA+in+Python" />
 </p> 
  
 ---
