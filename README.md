@@ -58,7 +58,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NOW_PLAYING-TRACK_01:_PYTHOSCAN-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NOW_PLAYING-NEW_TRACK:_DSA-36BCF7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UP_NEXT-TRACK_02:_SMART_PARKING-white?style=for-the-badge&color=333333" />
 </p>
 
